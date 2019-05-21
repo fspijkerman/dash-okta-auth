@@ -6,7 +6,7 @@ setup(
     name="dash-okta-auth",
     description="Dash Okta Auth",
     long_description=open('README.md', 'rt').read().strip(),
-    long_description_content_type='test/markdown',
+    long_description_content_type='text/markdown',
     author="Frank Spijkerman", author_email='fspijkerman@schubergphilis.com',
     url="https://github.com/fspijkerman/dash-okta-auth",
     license='MIT',
