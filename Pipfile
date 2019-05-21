@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+
+[packages]
+dash = ">=0.41.0"
+dash-core-components = ">=0.46.0"
+dash-html-components = ">=0.15.0"
+six = "*"
+Flask = ">=1.0.2"
+Flask-Dance = ">=1.2.0"
+
+[requires]
+python_version = "3.7"
